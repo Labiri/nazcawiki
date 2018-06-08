@@ -1,6 +1,6 @@
-Creating and funding a Binance account is very easy:
+## Creating an account on Binance
 
-1. Go to Binance.com and click on the `Register` button.
+Creating and funding a Binance account is very easy. Go to Binance.com and click on the `Register` button.
 
 _You can register with our referral link if you wish to support our work_
 
@@ -16,15 +16,17 @@ _You can register with our referral link if you wish to support our work_
 
 It may take up to a day or two to be verified, so don't worry if it doesn't happen immediately.
 
-4. Go to `Funds -> Deposits` and select the coin\token you would like to send to your Binance account. For example, if you purchased Bitcoin on Coinbase, select "BTC - Bitcoin".
+
+## Adding funds to your account
+Go to `Funds -> Deposits` and select the coin\token you would like to send to your Binance account. For example, if you purchased Bitcoin on Coinbase, select "BTC - Bitcoin".
 
 ![binance_fund](https://i.imgur.com/fir3B29.png)
 
-5. Click on `Copy Address`. This will be the destination address to use when sending your funds:
+Click on `Copy Address`. This will be the destination address to use when sending your funds:
 
 ![binance_btcfund](https://i.imgur.com/BbCLWnG.png)
 
-6. Go back on Coinbase and send your funds over:
+Go back on Coinbase and send your funds over:
 
 ![coinbase_send](https://coinatmradar.com/blog/wp-content/uploads/2017/11/coinbase1.png)
 
