@@ -17,10 +17,18 @@ _You can register with our referral link if you wish to support our work_
 It may take up to a day or two to be verified, so don't worry if it doesn't happen immediately.
 
 ## Generating API keys
-After logging into your account, go to "Account" and click on "API Setting".
+After logging into your account, go to "**Account**" and click on "**API Setting**".
 
 _Please note you must have enabled 2FA in order to generate API keys._
 
+![binance_api1](https://github.com/NazcaBot/nazcawiki/blob/master/api1.png)
+
+Enter a name for your API key and click on "**Create New Key**". Binance will now ask for your 2FA and send you a confirmation email. Confirm the email you received and your API Key will be ready.
+![binance_api2](https://github.com/NazcaBot/nazcawiki/blob/master/api3.png)
+
+Make sure to only have enabled **Read info** and **Enable Trading**, and to leave **Enable Widhdrawals** disabled (un-checked).
+
+__Note down the keys in a safe place, since you won't be able to see the secret key again and you would have to generate a new set.__
 
 
 ## Adding funds to your account
