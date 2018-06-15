@@ -16,6 +16,12 @@ _You can register with our referral link if you wish to support our work_
 
 It may take up to a day or two to be verified, so don't worry if it doesn't happen immediately.
 
+## Generating API keys
+After logging into your account, go to "Account" and click on "API Setting".
+
+_Please note you must have enabled 2FA in order to generate API keys._
+
+
 
 ## Adding funds to your account
 Go to `Funds -> Deposits` and select the coin\token you would like to send to your Binance account. For example, if you purchased Bitcoin on Coinbase, select "BTC - Bitcoin".
