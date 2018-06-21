@@ -1,8 +1,8 @@
 ## Creating an account on Binance
 
-Creating and funding a Binance account is very easy. Go to Binance.com and click on the `Register` button.
+A Binance account is required for Nazca to perform the trades. If you already have a Binance account you use for your trading or holdings, you can create a new account with a different email address, and Binance also lets you verify it by simply using a different document (e.g. main account verified with Passport, second account verified with national ID).
 
-_You can register with our referral link if you would like to support our work:_ **https://binance.com/refcode
+If you don't have an account yet, creating and funding a Binance account is very easy. Go to Binance.com and click on the `Register` button. _You can register with our referral link if you would like to support our work:_ https://binance.com/refcode
 
 **Make sure you actually are on the Binance website (and not on a phishing website) by checking the SSL certificate's validity next to the address bar.**
 
@@ -10,14 +10,14 @@ _You can register with our referral link if you would like to support our work:_
 2. Complete the registration form and open the registration email Binance will send you to activate your account. Once validated, it is strongly recommended to add Two Factor Authentication _(the process is very similar to Coinbase's one we covered in the "Purchasing cryptocurrencies" section of this guide)_
 
 
-3. Verify your identity by following the instructions:
+3. Verify your identity by following the instructions (_This step is not mandatory, but highly recommended_)
 
 ![binance_verify](https://lvena26b6e621o8sl2qkx1ql-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Binance-Verification.jpg)
 
 It may take up to a day or two to be verified, so don't worry if it doesn't happen immediately.
 
 ## Generating API keys
-After logging into your account, go to "**Account**" and click on "**API Setting**".
+You will need API Keys to let Nazca run your strategy for you. After logging into your account, go to "**Account**" and click on "**API Setting**".
 
 _Please note you must have enabled 2FA in order to generate API keys._
 
@@ -41,7 +41,10 @@ Click on `Copy Address`. This will be the destination address to use when sendin
 
 ![binance_btcfund](https://github.com/NazcaBot/nazcawiki/blob/master/bina_wall.png)
 
-Go back on Coinbase and send your funds over:
+Also, make sure "Using BNB to pay for fees" is `enabled`: that will reduce the cost of your trades:
+![bina_bnb](https://github.com/NazcaBot/nazcawiki/blob/master/bina_bnb.png)
+
+You can now go back on Coinbase and send your funds over:
 
 ![coinbase_send](https://coinatmradar.com/blog/wp-content/uploads/2017/11/coinbase1.png)
 
