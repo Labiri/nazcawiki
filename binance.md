@@ -2,7 +2,7 @@
 
 Creating and funding a Binance account is very easy. Go to Binance.com and click on the `Register` button.
 
-_You can register with our referral link if you wish to support our work_
+_You can register with our referral link if you would like to support our work:_ **https://binance.com/refcode
 
 **Make sure you actually are on the Binance website (and not on a phishing website) by checking the SSL certificate's validity next to the address bar.**
 
@@ -39,7 +39,7 @@ Go to `Funds -> Deposits` and select the coin\token you would like to send to yo
 
 Click on `Copy Address`. This will be the destination address to use when sending your funds:
 
-![binance_btcfund](https://i.imgur.com/BbCLWnG.png)
+![binance_btcfund](https://github.com/NazcaBot/nazcawiki/blob/master/bina_wall.png)
 
 Go back on Coinbase and send your funds over:
 
