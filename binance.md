@@ -23,6 +23,9 @@ _Please note you must have enabled 2FA in order to generate API keys._
 
 ![binance_api1](https://github.com/NazcaBot/nazcawiki/blob/master/res/api1.png)
 
+
+![binance_api1](https://github.com/NazcaBot/nazcawiki/blob/master/res/api1)
+
 Enter a name for your API key and click on "**Create New Key**". Binance will now ask for your 2FA and send you a confirmation email. Confirm the email you received and your API Key will be ready.
 
 ![binance_api2](https://github.com/NazcaBot/nazcawiki/blob/master/res/api3.png)
