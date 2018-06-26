@@ -2,7 +2,7 @@
 
 A Binance account is required for Nazca to perform the trades. If you already have a Binance account you use for your trading or holdings, you can create a new account with a different email address, and Binance also lets you verify it by simply using a different document (e.g. main account verified with Passport, second account verified with national ID).
 
-If you don't have an account yet, creating and funding a Binance account is very easy. Go to Binance.com and click on the `Register` button. _You can register with our referral link if you would like to support our work:_ https://binance.com/refcode
+If you don't have an account yet, creating and funding a Binance account is very easy. Go to Binance.com and click on the `Register` button. _You can register with our referral link if you would like to support our work:_ https://www.binance.com/?ref=35076996
 
 **Make sure you actually are on the Binance website (and not on a phishing website) by checking the SSL certificate's validity next to the address bar.**
 
@@ -21,11 +21,11 @@ You will need API Keys to let Nazca run your strategy for you. After logging int
 
 _Please note you must have enabled 2FA in order to generate API keys._
 
-![binance_api1](https://github.com/NazcaBot/nazcawiki/tree/master/res/api1.png)
+![binance_api1](https://github.com/NazcaBot/nazcawiki/blob/master/res/api1.png)
 
 Enter a name for your API key and click on "**Create New Key**". Binance will now ask for your 2FA and send you a confirmation email. Confirm the email you received and your API Key will be ready.
 
-![binance_api2](https://github.com/NazcaBot/nazcawiki/tree/master/res/api3.png)
+![binance_api2](https://github.com/NazcaBot/nazcawiki/blob/master/res/api3.png)
 
 Make sure to only have enabled **Read info** and **Enable Trading**, and to leave **Enable Widhdrawals** disabled (un-checked).
 
@@ -39,10 +39,10 @@ Go to `Funds -> Deposits` and select the coin\token you would like to send to yo
 
 Click on `Copy Address`. This will be the destination address to use when sending your funds:
 
-![binance_btcfund](https://github.com/NazcaBot/nazcawiki/blob/master/bina_wall.png)
+![binance_btcfund](https://github.com/NazcaBot/nazcawiki/blob/master/res/bina_wall.png)
 
 Also, make sure "Using BNB to pay for fees" is `enabled`: that will reduce the cost of your trades:
-![bina_bnb](https://github.com/NazcaBot/nazcawiki/blob/master/bina_bnb.png)
+![bina_bnb](https://github.com/NazcaBot/nazcawiki/blob/master/res/bina_bnb.png)
 
 You can now go back on Coinbase and send your funds over:
 
