@@ -40,10 +40,10 @@ Go to `Funds -> Deposits` and select the coin\token you would like to send to yo
 
 Click on `Copy Address`. This will be the destination address to use when sending your funds:
 
-![binance_btcfund](https://github.com/NazcaBot/nazcawiki/blob/master/res/bina_wall.png)
+![binance_btcfund](https://github.com/NazcaBot/nazcawiki/raw/master/res/bina_wall.png)
 
 Also, make sure "Using BNB to pay for fees" is `enabled`: that will reduce the cost of your trades:
-![bina_bnb](https://github.com/NazcaBot/nazcawiki/blob/master/res/bina_bnb.png)
+![bina_bnb](https://github.com/NazcaBot/nazcawiki/raw/master/res/bina_bnb.png)
 
 You can now go back on Coinbase and send your funds over:
 
