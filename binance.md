@@ -21,11 +21,11 @@ You will need API Keys to let Nazca run your strategy for you. After logging int
 
 _Please note you must have enabled 2FA in order to generate API keys._
 
-![binance_api1](http://github.com/NazcaBot/nazcawiki/tree/master/res/api1.png)
+![binance_api1](https://github.com/NazcaBot/nazcawiki/tree/master/res/api1.png)
 
 Enter a name for your API key and click on "**Create New Key**". Binance will now ask for your 2FA and send you a confirmation email. Confirm the email you received and your API Key will be ready.
 
-![binance_api2](https://github.com/NazcaBot/nazcawiki/tree/master/res/api3.png)
+![binance_api2](https://github.com/NazcaBot/nazcawiki/res/api3.png)
 
 Make sure to only have enabled **Read info** and **Enable Trading**, and to leave **Enable Widhdrawals** disabled (un-checked).
 
