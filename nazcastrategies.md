@@ -62,14 +62,15 @@ You will be redirected to Coinbase commerce, where you can complete the payment.
 
 ![nazca_dashboard](https://github.com/NazcaBot/nazcawiki/raw/master/res/dashb.png)
 
+### Managing the strategy
 From the Dashboard you can also manage your strategy. You have three options:
-1. **Pause** - _pause your strategy and not rebalance it, or delete it_
+* 1. **Pause** - _pause your strategy and not rebalance it, or delete it_
 
 ![nazca_pause](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_pause.png)
 
-2. **Edit** - _edit your strategy and go back to the Wizard_
+* 2. **Edit** - _edit your strategy and go back to the Wizard_
 
-3. **Rebalance Now** - _trigger a manual rebalance at any moment_
+* 3. **Rebalance Now** - _trigger a manual rebalance at any moment_
 
 ![nazca_rebalance](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_rebalance.png)
 
