@@ -38,7 +38,7 @@ Need to revise your strategy configuration? No worries! Go back to the first ste
 ***
 ## Step 3: Review and execute
 ### Adding API keys
-In this last step you can link Nazca to your Binance account thought the API Keys [you previously generated]()binance.md.
+In this last step you can link Nazca to your Binance account thought the API Keys [you previously generated](binance.md).
 
 ![nazca_api](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_api.png)
 
