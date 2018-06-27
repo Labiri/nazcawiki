@@ -5,4 +5,4 @@
 * **Blog:** https://medium.com/nazcabot
 * **Wiki:** https://wiki.nazcabot.io
 * **Support:** https://support.nazcabot.io
-* **Telegram Official Channel:** https://t.me/nazcabot
+* **Telegram Channel:** https://t.me/nazcabot
