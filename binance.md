@@ -6,17 +6,16 @@ If you don't have an account yet, creating and funding a Binance account is very
 
 Note: You can register with our referral link if you would like to support our work: https://www.binance.com/?ref=35076996
 
-**Make sure you actually are on the Binance website (and not on a phishing website) by checking the SSL certificate's validity next to the address bar.**
+Warning: Make sure you actually are on the Binance website (and not on a phishing website) by checking the SSL certificate's validity next to the address bar.
+
+Complete the registration form and open the registration email Binance will send you to activate your account. Once validated, it is strongly recommended to add Two Factor Authentication _(the process is very similar to Coinbase's one we covered in the section [Purchasing Cryptocurrencies](coinbase.md) of this guide)_
 
 
-2. Complete the registration form and open the registration email Binance will send you to activate your account. Once validated, it is strongly recommended to add Two Factor Authentication _(the process is very similar to Coinbase's one we covered in the "Purchasing cryptocurrencies" section of this guide)_
-
-
-3. Verify your identity by following the instructions (_This step is not mandatory, but highly recommended_)
+Now, verify your identity by following the instructions (_This step is not mandatory, but highly recommended_)
 
 ![binance_verify](https://lvena26b6e621o8sl2qkx1ql-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Binance-Verification.jpg)
 
-It may take up to a day or two to be verified, so don't worry if it doesn't happen immediately.
+It may take up to a day or two to be verified, so don't worry if doesn't happen immediately.
 
 ## Generating API keys
 You will need API Keys to let Nazca run your strategy for you. After logging into your account, go to "**Account**" and click on "**API Setting**".
