@@ -35,7 +35,9 @@ The default backtest is ran over 365 days, but you can change it by clicking on 
 
 **Need to revise your strategy configuration?** No worries! Go back to the first step and run the backtest again until you are comfortable with the changes. 
 
-![nazca_goback](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_goback.png)
+<p align="center">
+<img src="https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_goback.png">
+</p>
 
 ***
 ## Step 3: Review and execute
@@ -53,7 +55,10 @@ You are almost done! Just select the subscription type you would like to start w
 
 You will be redirected to Coinbase commerce, where you can complete the payment. Nazca will execute your strategy as soon as the purchase is confirmed.
 
-![nazca_payent](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazc_payment.png)
+<p align="center">
+<img src="https://github.com/NazcaBot/nazcawiki/raw/master/res/nazc_payment.png">
+</p>
+
 
 ***
 
@@ -76,8 +81,8 @@ From the Dashboard you can also manage your strategy. You have three options:
 ![nazca_rebalance](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_rebalance.png)
 
 
+***
 
-
-
-
-
+<p align="center">
+<img width="600" height="63" border="0" src="https://github.com/NazcaBot/nazcawiki/raw/master/res/barr.png">
+</p>
