@@ -57,8 +57,8 @@ You will be redirected to Coinbase commerce, where you can complete the payment.
 
 ***
 
-## Congratulations!
-Your strategy has been executed and you can now follow its progress from the **Dashboard**.
+## The Dashboard
+**Congratulations!** Your strategy has been executed and you can now follow its progress from the Dashboard.
 
 ![nazca_dashboard](https://github.com/NazcaBot/nazcawiki/raw/master/res/dashb.png)
 
