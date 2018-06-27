@@ -22,7 +22,10 @@ You will need API Keys to let Nazca run your strategy for you. After logging int
 
 _Please note you must have enabled 2FA in order to generate API keys._
 
-![binance_api1](https://github.com/NazcaBot/nazcawiki/raw/master/res/api1.png)
+<p align="center">
+<img src="https://github.com/NazcaBot/nazcawiki/raw/master/res/api1.png">
+</p>
+
 
 Enter a name for your API key and click on "**Create New Key**". Binance will now ask for your 2FA and send you a confirmation email. Confirm the email you received and your API Key will be ready.
 
@@ -40,18 +43,25 @@ Go to `Funds -> Deposits` and select the coin\token you would like to send to yo
 
 Click on `Copy Address`. This will be the destination address to use when sending your funds:
 
-![binance_btcfund](https://github.com/NazcaBot/nazcawiki/raw/master/res/bina_wall.png)
+<p align="center">
+<img src="https://github.com/NazcaBot/nazcawiki/raw/master/res/bina_wall.png">
+</p>
+
 
 Also, make sure "Using BNB to pay for fees" is `enabled`: that will reduce the cost of your trades:
 ![bina_bnb](https://github.com/NazcaBot/nazcawiki/raw/master/res/bina_bnb.png)
 
 You can now go back on Coinbase and send your funds over:
 
-![coinbase_send](https://coinatmradar.com/blog/wp-content/uploads/2017/11/coinbase1.png)
+<p align="center">
+<img src="https://coinatmradar.com/blog/wp-content/uploads/2017/11/coinbase1.png">
+</p>
 
 The transaction will now need to be confirmed by the network. You can refresh the Binance page to see the status of the transaction.
 
-
+<p align="center">
+<img width="600" height="63" border="0" src="https://github.com/NazcaBot/nazcawiki/raw/master/res/barr.png">
+</p>
 
 
 
