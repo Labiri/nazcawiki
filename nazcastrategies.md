@@ -1,5 +1,5 @@
 # Creating strategies on Nazca
-
+## Ready?
 On Nazca, everything has been simplified to let you build, check and manage your portfolio with ease. The creation of the strategy happens in 3 simple steps through the wizard.
 
 ***
@@ -33,13 +33,11 @@ The default backtest is ran over 365 days, but you can change it by clicking on 
 
 ![nazca_backtest_dates](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_bt_dates.png)
 
-Need to revise your strategy configuration? No worries! Go back to the first step and run the backtest again once you are comfortable with the changes.
-
-![nazca_goback](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_goback.png)
+Need to revise your strategy configuration? No worries! Go back to the first step and run the backtest again until you are comfortable with the changes. ![nazca_goback](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_goback.png)
 ***
 ## Step 3: Review and execute
 ### Adding API keys
-In this last step you can link Nazca to your Binance account thought the API Keys you previously generated. - _add link to binance wiki_
+In this last step you can link Nazca to your Binance account thought the API Keys [you previously generated]()binance.md.
 
 ![nazca_api](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_api.png)
 
@@ -56,7 +54,8 @@ You will be redirected to Coinbase commerce, where you can complete the payment.
 
 ***
 
-## Congratulations! Your strategy has been executed and you can now follow its progress from the **Dashboard**.
+## Congratulations!
+### Your strategy has been executed and you can now follow its progress from the **Dashboard**.
 
 ![nazca_dashboard](https://github.com/NazcaBot/nazcawiki/raw/master/res/dashb.png)
 
