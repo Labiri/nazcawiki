@@ -31,7 +31,7 @@ Enter a name for your API key and click on "**Create New Key**". Binance will no
 
 Make sure to only have enabled **Read info** and **Enable Trading**, and to leave **Enable Widhdrawals** disabled (un-checked).
 
-__Note down the keys in a safe place, since you won't be able to see the secret key again and you would have to generate a new set.__
+Attention: Note down the keys in a safe place, since you won't be able to see the secret key again and you would have to generate a new set.
 
 
 ## Adding funds to your account
@@ -51,3 +51,8 @@ You can now go back on Coinbase and send your funds over:
 ![coinbase_send](https://coinatmradar.com/blog/wp-content/uploads/2017/11/coinbase1.png)
 
 The transaction will now need to be confirmed by the network. You can refresh the Binance page to see the status of the transaction.
+
+
+
+
+
