@@ -33,6 +33,7 @@ The default backtest is ran over 365 days, but you can change it by clicking on 
 
 ![nazca_backtest_dates](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_bt_dates.png)
 
+
 Need to revise your strategy configuration? No worries! Go back to the first step and run the backtest again until you are comfortable with the changes. ![nazca_goback](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_goback.png)
 ***
 ## Step 3: Review and execute
@@ -69,3 +70,10 @@ From the Dashboard you can also manage your strategy. You have three options:
 3. **Rebalance Now** - _trigger a manual rebalance at any moment_
 
 ![nazca_rebalance](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_rebalance.png)
+
+
+
+
+
+
+
