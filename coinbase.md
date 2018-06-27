@@ -48,4 +48,4 @@ Once you’ve taken care of that, buying and selling cryptocurrency is relativel
 ![send_eth](https://i.imgur.com/Ee9uiao.png) Go to Accounts in the menu, look for the currency you’d like to send, then click `Send`. A prompt will come up instructing you to put in the recipients address and the amount you’d like to send. Ethereum example:
 ***
 
-You are now ready to send them to your Binance account. If you don't have a Binance account, please check the next section of this guide.
+You are now ready to send them to your Binance account. If you don't have an account yet, check the section [Registering a Binance account](binance.md) of this guide.
