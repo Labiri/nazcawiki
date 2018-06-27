@@ -64,6 +64,7 @@ You will be redirected to Coinbase commerce, where you can complete the payment.
 
 ### Managing the strategy
 From the Dashboard you can also manage your strategy. You have three options:
+
 * **Pause** - _pause your strategy and not rebalance it, or delete it_
 
 ![nazca_pause](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_pause.png)
