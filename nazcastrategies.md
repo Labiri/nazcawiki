@@ -33,12 +33,12 @@ The default backtest is ran over 365 days, but you can change it by clicking on 
 
 ![nazca_backtest_dates](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_bt_dates.png)
 
-
-Need to revise your strategy configuration? No worries! Go back to the first step and run the backtest again until you are comfortable with the changes. ![nazca_goback](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_goback.png)
+![nazca_goback](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_goback.png)
+**Need to revise your strategy configuration?** No worries! Go back to the first step and run the backtest again until you are comfortable with the changes. 
 ***
 ## Step 3: Review and execute
 ### Adding API keys
-In this last step you can link Nazca to your Binance account thought the API Keys [you previously generated](binance.md).
+In this last step you can link Nazca to your Binance account thought the API Keys [you previously generated](binance.md#Generating_API_keys).
 
 ![nazca_api](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_api.png)
 
