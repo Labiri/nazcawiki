@@ -59,6 +59,8 @@ You can now go back on Coinbase and send your funds over:
 
 The transaction will now need to be confirmed by the network. You can refresh the Binance page to see the status of the transaction.
 
+***
+
 <p align="center">
 <img width="600" height="63" border="0" src="https://github.com/NazcaBot/nazcawiki/raw/master/res/barr.png">
 </p>
