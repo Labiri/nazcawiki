@@ -38,7 +38,7 @@ Attention: If you lose access to the device you’ve enacted authenticator on, y
 ## Funding Your Coinbase Account
 Congratulations, your Coinbase account got approved! You can now start funding your account… or so you thought.
 <p align="center">
-<img width="600" height="63" border="0" src="https://i.imgur.com/isNuaSJ.png">
+<img src="https://i.imgur.com/isNuaSJ.png">
 </p>
 
 Upon your first cryptocurrency purchase with Coinbase, it is very likely your bank will automatically flag the purchase as fraudulent. If this happens to you (which it most likely will), you will need to call up your bank and let them know to let the purchase go through.
@@ -49,7 +49,7 @@ Once you’ve taken care of that, buying and selling cryptocurrency is relativel
 Go to Accounts in the menu, look for the currency you’d like to send, then click `Send`. A prompt will come up instructing you to put in the recipients address and the amount you’d like to send. Ethereum example:
 
 <p align="center">
-<img width="600" height="63" border="0" src="https://i.imgur.com/Ee9uiao.png">
+<img src="https://i.imgur.com/Ee9uiao.png">
 </p>
 ***
 
