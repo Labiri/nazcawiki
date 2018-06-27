@@ -4,10 +4,9 @@
 <p align="center">
 <img src="https://github.com/NazcaBot/nazcawiki/raw/master/res/barr.png">
 </p>
+***
+##Welcome to Nazca Wiki page!
 
-<p align="center">
-# Welcome to Nazca Wiki page! 
-</p>
 
 ### Useful links
 * **Website:** https://nazcabot.io
