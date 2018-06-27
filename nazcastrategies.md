@@ -78,8 +78,9 @@ From the Dashboard you can also manage your strategy. You have three options:
 
 * **Rebalance Now** - _trigger a manual rebalance at any moment_
 
-![nazca_rebalance](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_rebalance.png)
-
+<p align="center">
+<img src="https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_rebalance.png">
+</p>
 
 ***
 
