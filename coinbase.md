@@ -51,6 +51,7 @@ Go to Accounts in the menu, look for the currency you’d like to send, then cli
 <p align="center">
 <img src="https://i.imgur.com/Ee9uiao.png">
 </p>
+
 ***
 
 You are now ready to send them to your Binance account. If you don't have an account yet, check the section [Registering a Binance account](binance.md) of this guide.
