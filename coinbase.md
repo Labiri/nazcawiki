@@ -1,6 +1,7 @@
-For ease of purchasing, we would recommend Coinbase and this is a quick tutorial to buy your first cryptocurrencies in order to fund your Binance account.
+## Where to start?
+For ease of purchasing we recommend Coinbase, and this is a quick tutorial to buy your first cryptocurrencies in order to fund your Binance account.
 
-_This guide has been adapted from MrCryptoDude's tutorial posted on Reddit. The complete original version can be found [here](https://www.reddit.com/r/CoinBase/comments/8deqla/coinbase_tutorial_a_definitive_guide_for_newcomers/)._
+Note: This guide has been adapted from MrCryptoDude's tutorial posted on Reddit. The complete original version can be found [here](https://www.reddit.com/r/CoinBase/comments/8deqla/coinbase_tutorial_a_definitive_guide_for_newcomers/).
 
 ## What is Coinbase?
 [Coinbase](https://www.coinbase.com/) is a cryptocurrency trading platform which allows you to buy and sell four different cryptocurrencies: Bitcoin, Bitcoin Cash, Ethereum, and Litecoin. Note that there are over thousands of different cryptocurrencies but these four are what Coinbase specializes in. Of course, more cryptocurrencies may be added in the future and much speculation goes on about which cryptocurrencies will be added next; but that’s not very important into what we’ll be discussing.
@@ -26,15 +27,13 @@ In order to enable authenticator for Coinbase, go to `Settings > Security` and `
 
 ![cauth](https://i.imgur.com/wR4BKLF.png)
 
-After that a prompt will appear along with a QR code and a secret code (comprised of a random string of 16 letters & numbers). 
-
-![auth](https://i.imgur.com/AYqQCrH.png)
+After that a prompt will appear along with a QR code and a secret code (comprised of a random string of 16 letters & numbers). ![auth](https://i.imgur.com/AYqQCrH.png)
 
 You will need to open up your Google Authenticator app and scan in your QR code. You will also need to **write down your secret code** and keep it in a safe place such as a safe and/or security deposit box.
 
 Once enabled, any time you wish to access your Coinbase account or make trades/transfers, you will need access to the 6-digit code provided by your authenticator.
 
-**IMPORTANT:** If you lose access to the device you’ve enacted authenticator on, you ABSOLUTELY WILL NOT be able to recover your account UNLESS you have that 16 digit secret code. This is a serious matter that should be taken with serious caution. It is important you take preventative security measures to ensure the security of your cryptocurrency. I highly recommend calling your bank and opening a security deposit box. This will mostly likely cost a yearly fee but the peace of mind alone is worth it.
+Attention: If you lose access to the device you’ve enacted authenticator on, you ABSOLUTELY WILL NOT be able to recover your account UNLESS you have that 16 digit secret code. This is a serious matter that should be taken with serious caution. It is important you take preventative security measures to ensure the security of your cryptocurrency. I highly recommend calling your bank and opening a security deposit box. This will mostly likely cost a yearly fee but the peace of mind alone is worth it.
 
 ## Funding Your Coinbase Account
 Congratulations, your Coinbase account got approved! You can now start funding your account… or so you thought.
@@ -46,11 +45,7 @@ Once you’ve taken care of that, buying and selling cryptocurrency is relativel
 ![buy_coinbase](https://i.imgur.com/isNuaSJ.png)
 
 ## Sending cryptocurrencies
-Go to Accounts in the menu, look for the currency you’d like to send, then click `Send`. A prompt will come up instructing you to put in the recipients address and the amount you’d like to send. Ethereum example:
-
-![send_eth](https://i.imgur.com/Ee9uiao.png)
-
-
+![send_eth](https://i.imgur.com/Ee9uiao.png) Go to Accounts in the menu, look for the currency you’d like to send, then click `Send`. A prompt will come up instructing you to put in the recipients address and the amount you’d like to send. Ethereum example:
 ***
 
 You are now ready to send them to your Binance account. If you don't have a Binance account, please check the next section of this guide.
