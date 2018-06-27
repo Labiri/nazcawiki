@@ -36,16 +36,16 @@ Once enabled, any time you wish to access your Coinbase account or make trades/t
 Attention: If you lose access to the device you’ve enacted authenticator on, you ABSOLUTELY WILL NOT be able to recover your account UNLESS you have that 16 digit secret code. This is a serious matter that should be taken with serious caution. It is important you take preventative security measures to ensure the security of your cryptocurrency. I highly recommend calling your bank and opening a security deposit box. This will mostly likely cost a yearly fee but the peace of mind alone is worth it.
 
 ## Funding Your Coinbase Account
-Congratulations, your Coinbase account got approved! You can now start funding your account… or so you thought.
+![buy_coinbase](https://i.imgur.com/isNuaSJ.png) Congratulations, your Coinbase account got approved! You can now start funding your account… or so you thought.
 
 Upon your first cryptocurrency purchase with Coinbase, it is very likely your bank will automatically flag the purchase as fraudulent. If this happens to you (which it most likely will), you will need to call up your bank and let them know to let the purchase go through.
 
 Once you’ve taken care of that, buying and selling cryptocurrency is relatively self-explanatory. Just go to `Buy/Sell` in the menu and choose which currency you’d like to buy/sell:
 
-![buy_coinbase](https://i.imgur.com/isNuaSJ.png)
-
 ## Sending cryptocurrencies
-![send_eth](https://i.imgur.com/Ee9uiao.png) Go to Accounts in the menu, look for the currency you’d like to send, then click `Send`. A prompt will come up instructing you to put in the recipients address and the amount you’d like to send. Ethereum example:
+Go to Accounts in the menu, look for the currency you’d like to send, then click `Send`. A prompt will come up instructing you to put in the recipients address and the amount you’d like to send. Ethereum example:
+
+![send_eth](https://i.imgur.com/Ee9uiao.png)
 ***
 
 You are now ready to send them to your Binance account. If you don't have an account yet, check the section [Registering a Binance account](binance.md) of this guide.
