@@ -4,3 +4,4 @@
 [Purchasing Cryptocurrencies](coinbase.md)
 [Registering a Binance account](binance.md)
 [Creating strategies on Nazca](nazcastrategies.md)
+[Support](https://support.nazcabot.io)
