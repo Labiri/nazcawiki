@@ -5,7 +5,7 @@ Should you still need help, join our [Telegram Channel](https://t.me/nazcabot) o
 
 ***
 
-[nazcalogo](https://github.com/NazcaBot/nazcawiki/raw/master/res/fullo.png)
+![nazcalogo](https://github.com/NazcaBot/nazcawiki/raw/master/res/fullo.png)
 
 ### Useful links
 * **Website:** https://nazcabot.io
@@ -13,4 +13,3 @@ Should you still need help, join our [Telegram Channel](https://t.me/nazcabot) o
 * **Wiki:** https://wiki.nazcabot.io
 * **Support:** https://support.nazcabot.io
 * **Telegram:** https://t.me/nazcabot
-[nazcalogo](https://github.com/NazcaBot/nazcawiki/raw/master/res/fullo.png)
