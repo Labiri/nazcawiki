@@ -42,7 +42,7 @@ _Rebalance period 1_ - The market caps of your chosen assets have changed. BTC (
 You define your asset weighting, and we maintain that distribution during each rebalance period.
 
 **Pros:**
-* Human Intuition
+* Human intuition
 * Flexibility
 
 **Cons:**
