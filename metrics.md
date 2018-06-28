@@ -23,7 +23,7 @@ You begin with a portfolio of 50% ETH and 50% LTC. During the first rebalance pe
 ### Market Cap Distribution
 A Market Cap Distribution is a model where assets are weighted proportionally to their total market capitalization in USD, and therefore, assets with higher market capitalization carry a higher percentage weighting. The asset weightings are rebalanced during each rebalance period to align with these market capitalization.
 
-Tip: This distribution is typically paired with the top 10 coins by market cap.
+Tip: this distribution is typically paired with the top 10 coins by market cap.
 
 **Example \ Case study:** 
 You invest $1,000 in BTC (41% of total crypto market cap), ETH (15% of total crypto market cap) and XRP (8% of total crypto market cap). Your initial asset allocation will be:
@@ -45,7 +45,8 @@ You define your asset weighting, and we maintain that distribution during each r
 * Human Intuition
 * Flexibility
 
-**Cons:** Emotion
+**Cons:**
+Emotion
 
 **Example \ Case study:** 
 You choose the following custom distribution of crypto tokens:
