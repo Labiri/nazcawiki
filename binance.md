@@ -1,6 +1,8 @@
 ## Creating an account on Binance
 
-A Binance account is required for Nazca to perform the trades. If you already have a Binance account you use for your trading or holdings, you can create a new account with a different email address, and Binance also lets you verify it by simply using a different document (e.g. main account verified with Passport, second account verified with national ID).
+A Binance account is required for Nazca to perform the trades.
+
+Tip: If you already have a Binance account you use for your trading or holdings, you can create a new account with a different email address, and Binance also lets you verify it by simply using a different document (e.g. main account verified with Passport, second account verified with national ID).
 
 If you don't have an account yet, creating and funding a Binance account is very easy. Go to Binance.com and click on the `Register` button. 
 
