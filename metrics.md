@@ -57,7 +57,18 @@ You choose the following custom distribution of crypto tokens:
 Every 14 days, your portfolio will be automatically rebalanced to align with your custom allocations.
 
 ## Backtests
-### section
+### Profit and Risk metrics
+* **Annualized Return:** average of amount of money earned each year over a given time frame. Shows possible earnings over a period of time if the annual return is compounded.
+
+* ** Annualized Volatility:** measures the variance of returns over a period of time. Daily returns are calculated along with their standard deviation _(variance from the mean of a data set)_ to give daily volatility, then annualized over the course of a year.
+
+* **Sharpe Ratio:** Measures whether the returns you are making are worth the risk you are exposing your portfolio to.
+
+* **Max Drawdown:** Maximum loss over a given period, from the maximum value (peak) to the minimum value (trough).
+
+* **Downside Risk:** estimates an asset's potential to suffer a decline in value if the market conditions change, or the amount of loss that could be sustained as a result of the decline.
+
+* **Mean Est. Fee:** 
 
 ***
 
