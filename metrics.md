@@ -56,6 +56,8 @@ You choose the following custom distribution of crypto tokens:
 * Rebalance period: 14 days
 Every 14 days, your portfolio will be automatically rebalanced to align with your custom allocations.
 
+***
+
 ## Backtests
 ### Profit and Risk metrics
 * **Annualized Return:** average of amount of money earned each year over a given time frame. Shows possible earnings over a period of time if the annual return is compounded.
