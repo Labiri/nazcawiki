@@ -80,7 +80,19 @@ Every 14 days, your portfolio will be automatically rebalanced to align with you
 
 * **Downside Risk:** estimates an asset's potential to suffer a decline in value if the market conditions change, or the amount of loss that could be sustained as a result of the decline.
 
-* **Mean Est. Fee:** 
+* **Mean Est. Fee:** an estimate of the average fees paid at each rebalance according to your strategy, in percentage.
+
+***
+
+### Backtest Charts
+![backtest_chart](https://github.com/NazcaBot/nazcawiki/raw/master/res/bkchart.png)
+
+**The Backtest chart is divided in two sections:**
+
+* Your Portfolio performance line in comparison to main three assets by Market Cap and total Altcoins Market Cap
+* The Asset Weights present in your portfolio at that time, represented with colored rectangles
+
+Tip: you can hover the mouse cursor over any point of the chart to see profit rates and per-asset weights for that rebalance period.
 
 ***
 
