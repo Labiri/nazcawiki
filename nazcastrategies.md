@@ -8,7 +8,7 @@ On Nazca, everything has been simplified to let you build, check and manage your
 
 ### Choosing **distribution model** and **rebalance period**
 
-Here you can choose how to allocate your assets and how often Nazca should rebalance them for you. Each one will give your portfolio specific alignments and different levels of risk: make sure to check the **Distribution Models** section of this wiki to learn more about them.
+Here you can choose how to allocate your assets and how often Nazca should rebalance them for you. Each one will give your portfolio specific alignments and different levels of risk: make sure to check the [Models and Backtests](metrics.md) section of this wiki to learn more about them.
 
 ![nazca_model](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_model.png)
 
@@ -27,7 +27,7 @@ In this second step, you can run a simulation to see how your portfolio strategy
 
 ![nazca_backtest](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_backtest.png)
 
-The bold blue line indicates your portfolio, compared to the other colored lines (respectively Total Market Cap, Altcoins Market Cap, and the top three assets by Market Cap) and your assets weights can be seen by simply hovering the mouse over the chart. Learn more about metrics in the **Backtest Metrics** section.
+The bold blue line indicates your portfolio, compared to the other colored lines (respectively Total Market Cap, Altcoins Market Cap, and the top three assets by Market Cap) and your assets weights can be seen by simply hovering the mouse over the chart. Learn more about metrics in the [Models and Backtests](metrics.md) section.
 
 The default backtest is ran over 365 days, but you can change it by clicking on the dates:
 
