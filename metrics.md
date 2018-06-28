@@ -12,10 +12,12 @@ An even distribution model maintains an equal USD value of each asset in the por
 You begin with a portfolio of 50% ETH and 50% LTC. During the first rebalance period the price of LTC doubles. Your portfolio now looks like 33.3% ETH and 66.6% LTC. To re-establish the even distribution, you must sell LTC and buy ETH.
 
 **Pros:**
+
 * Largely diversified, and equal reliance on each asset.
 * Performs well in a volatile market.
 
 **Cons:**
+
 * Constantly changing prices may lead to heftier rebalances, and thus higher rebalancing fees.
 * Higher exposure to relatively lower market cap assets.
 * Does not perform well in a trending market.
@@ -42,10 +44,12 @@ _Rebalance period 1_ - The market caps of your chosen assets have changed. BTC (
 You define your asset weighting, and we maintain that distribution during each rebalance period.
 
 **Pros:**
+
 * Human intuition
 * Flexibility
 
 **Cons:**
+
 Emotion
 
 **Example \ Case study:** 
