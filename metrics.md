@@ -54,6 +54,7 @@ You choose the following custom distribution of crypto tokens:
 * TRX (TRON) - 25%
 * VEN (VeChain) - 25%
 * Rebalance period: 14 days
+
 Every 14 days, your portfolio will be automatically rebalanced to align with your custom allocations.
 
 ***
