@@ -53,6 +53,8 @@ You are almost done! Just select the subscription type you would like to start w
 
 ![nazca_execute](https://github.com/NazcaBot/nazcawiki/raw/master/res/nazca_execute.png)
 
+Attention: Coinbase (or any form of cryptocurrency payments) does not support subscriptions or recurring payments, however we will send you a reminder via email when the next payment is due, so you won't miss out on next rebalance!
+
 You will be redirected to Coinbase commerce, where you can complete the payment. Nazca will execute your strategy as soon as the purchase is confirmed.
 
 <p align="center">
