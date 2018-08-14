@@ -6,7 +6,7 @@ On Nazca, everything has been simplified to let you build, check and manage your
 
 ## Step 1: assets and distribution model
 
-You can select one of the pre-made strategies to start quick, or you can go ahead building your custom one.
+You can select one of the pre-made strategies to start, or you can go ahead building your custom one.
 
 ![nazca_premade](https://github.com/NazcaBot/nazcawiki/raw/master/res/premades.png)
 
