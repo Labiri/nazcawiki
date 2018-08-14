@@ -6,7 +6,11 @@ On Nazca, everything has been simplified to let you build, check and manage your
 
 ## Step 1: assets and distribution model
 
-### Choosing **distribution model** and **rebalance period**
+You can select one of the pre-made strategies to start quick, or you can go ahead building your custom one.
+
+![nazca_premade](https://github.com/NazcaBot/nazcawiki/raw/master/res/premades.png)
+
+### Custom strategies: **distribution model** and **rebalance period**
 
 Here you can choose how to allocate your assets and how often Nazca should rebalance them for you. Each one will give your portfolio specific alignments and different levels of risk: make sure to check the [Models and Backtests](metrics.md) section of this wiki to learn more about them.
 
